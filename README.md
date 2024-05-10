@@ -9,9 +9,9 @@
 
 <br />
 
-[![HappyUncle's GitHub stats](https://github-readme-stats.vercel.app/api?username=HappyUncle&show_icons=true&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![happy-v587's GitHub stats](https://github-readme-stats.vercel.app/api?username=happy-v587&show_icons=true&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <h2></h2>
 <br />
 
-![Visitor Count](https://profile-counter.glitch.me/HappyUncle/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/happy-v587/count.svg)
