@@ -5,13 +5,11 @@
 - 📺 常用编程语言 Golang, Rust, c/c++, Python
 - 👁 专注研究 MySQL、TiDB、RocksDB
 
-<h2></h2>
-
-<br />
+<!-- <br />
 
 [![happy-v587's GitHub stats](https://github-readme-stats.vercel.app/api?username=happy-v587&show_icons=true&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <h2></h2>
 <br />
 
-![Visitor Count](https://profile-counter.glitch.me/happy-v587/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/happy-v587/count.svg) -->
