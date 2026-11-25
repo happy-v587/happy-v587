@@ -10,9 +10,8 @@
 
 ## 近期项目
 
-- [chrome-plugin-x-tools](https://github.com/happy-v587/chrome-plugin-x-tools)：给 X/Twitter 做的 Chrome 右侧栏助手。配置自己的大模型接口后，可以对当前内容做翻译、核心观点提取，并生成小红书文案、微信公众号文章和小红书配图。
-- [the-second-brain](https://github.com/happy-v587/the-second-brain)：个人第二大脑项目，目标是把公众号、书籍、知乎、小红书、短视频、电商等信息流里的收藏和偏好沉淀为知识中心，再用 AI 做总结、分类和行动建议。
-- [kiwi](https://github.com/happy-v587/kiwi)：兼容Redis协议的持久化存储服务。
+- [powercontext](https://github.com/oceanbase/powercontext)：一个面向 AI Agent 的 context 服务。 它把工作里值得长期保留的部分——已经确认的决定、约束、证据、进展——从某一次对话里搬出来，这样下一个会话、下一个 Agent、或者下一个接手的人，都能从当前进展继续，而不必重读全部记录。
+- [kiwi](https://github.com/oceanbase/powercontext)：兼容Redis协议的持久化存储服务。
 - [jepsen-pikiwidb](https://github.com/happy-v587/jepsen-pikiwidb)：围绕 PikiwiDB 做一致性测试的实验项目，用来验证分布式 KV 系统在故障场景下的行为。
 
 ## 技术关键词
