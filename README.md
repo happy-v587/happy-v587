@@ -1,22 +1,26 @@
 ### Hi there 👋
 
-我是 Happy，主要做云数据库、云原生数据库和 Serverless 数据库方向的内核与管控系统建设。最近几年关注的重点是：数据库基础设施、Kubernetes 上的数据服务、AI Agent，以及把 AI 接入日常信息处理和内容生产流程。
+我是 Happy，做云数据库、云原生数据库和 Serverless 数据库的内核与管控系统。现在的重心是 AI Agent 的长期记忆与上下文基础设施，也持续关注 Kubernetes 上的数据服务。
 
 ## 最近在做什么
 
-- **数据库与云原生基础设施**：长期关注 MySQL、TiDB、RocksDB、Redis-compatible KV、Kubernetes Operator 和数据库管控平台。
-- **AI Agent 与开发者工具**：把 LLM 接入浏览器插件、代理调试、信息抓取、自动化脚本等日常工程场景。
-- **个人知识与内容生产**：探索如何把社交媒体、阅读、收藏和创作流程沉淀成可检索、可总结、可复用的个人信息系统。
+- **Agent Memory / Context**：在 PowerContext 上做记忆沉淀、跨会话交接和可观测性。
+- **Redis-compatible KV**：在 kiwi 上对齐 Redis 协议语义，做向量检索和存储命令重构。
+- **AI 工具链**：关注 Agent Skills、Claude Code / Codex 生态和浏览器插件，把 AI 接进日常工程与内容流程。
 
 ## 近期项目
 
-- [powercontext](https://github.com/oceanbase/powercontext)：一个面向 AI Agent 的 context 服务。 它把工作里值得长期保留的部分——已经确认的决定、约束、证据、进展——从某一次对话里搬出来，这样下一个会话、下一个 Agent、或者下一个接手的人，都能从当前进展继续，而不必重读全部记录。
-- [kiwi](https://github.com/oceanbase/powercontext)：兼容Redis协议的持久化存储服务。
-- [jepsen-pikiwidb](https://github.com/happy-v587/jepsen-pikiwidb)：围绕 PikiwiDB 做一致性测试的实验项目，用来验证分布式 KV 系统在故障场景下的行为。
+- [powercontext](https://github.com/oceanbase/powercontext)：面向 AI Agent 的 context 服务，把已确认的决定、约束、证据和进展从一次对话里沉淀下来，让下一个会话或 Agent 接着做。
+- [kiwi](https://github.com/arana-db/kiwi)：基于 Raft 和 RocksDB 的 Redis 兼容 KV 存储，强调高吞吐、大容量、多租户和强一致。
+- [jepsen-pikiwidb](https://github.com/happy-v587/jepsen-pikiwidb)：围绕 PikiwiDB 的一致性测试实验，验证分布式 KV 在故障场景下的行为。
+
+## 关注
+
+mem0、memobase 等 Agent memory 项目，以及 Claude Code 生态的 Agent Skills。
 
 ## 技术关键词
 
-`MySQL` · `TiDB` · `RocksDB` · `Redis-compatible KV` · `Kubernetes` · `Database Operator` · `Backup & Recovery` · `Jepsen` · `Go` · `Rust` · `C/C++` · `Python` · `TypeScript` · `AI Agent`
+`MySQL` · `TiDB` · `RocksDB` · `Redis-compatible KV` · `Vector Search` · `Kubernetes` · `Database Operator` · `Backup & Recovery` · `Jepsen` · `Go` · `Rust` · `C/C++` · `Python` · `TypeScript` · `AI Agent`
 
 <!-- <br />
 
